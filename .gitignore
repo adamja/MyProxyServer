@@ -1,0 +1,6 @@
+/client*
+/proxy
+/server*
+*.docx
+*.out
+*.pdf
